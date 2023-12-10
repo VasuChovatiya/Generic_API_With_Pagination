@@ -1,0 +1,24 @@
+PODS:
+  - MBProgressHUD (1.2.0)
+  - Nuke (10.7.1)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - MBProgressHUD
+  - Nuke
+  - Toast-Swift
+
+SPEC REPOS:
+  trunk:
+    - MBProgressHUD
+    - Nuke
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  Nuke: 279f17a599fd1c83cf51de5e0e1f2db143a287b0
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: 3688a6afcccb8c4b7ffd1bfdd45a18330444b506
+
+COCOAPODS: 1.14.2
